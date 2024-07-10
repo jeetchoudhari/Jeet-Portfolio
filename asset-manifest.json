@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jeet-portfolio/static/css/main.b1510878.css",
-    "main.js": "/jeet-portfolio/static/js/main.d612d765.js",
+    "main.js": "/jeet-portfolio/static/js/main.aec4dbda.js",
     "static/js/453.bd1f04f9.chunk.js": "/jeet-portfolio/static/js/453.bd1f04f9.chunk.js",
     "static/media/hackerrank.png": "/jeet-portfolio/static/media/hackerrank.0f32d133b601ca0dee08.png",
     "static/media/personalitypatent.png": "/jeet-portfolio/static/media/personalitypatent.80b950431eef99d887f6.png",
@@ -30,11 +30,11 @@
     "static/media/pre.svg": "/jeet-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/jeet-portfolio/index.html",
     "main.b1510878.css.map": "/jeet-portfolio/static/css/main.b1510878.css.map",
-    "main.d612d765.js.map": "/jeet-portfolio/static/js/main.d612d765.js.map",
+    "main.aec4dbda.js.map": "/jeet-portfolio/static/js/main.aec4dbda.js.map",
     "453.bd1f04f9.chunk.js.map": "/jeet-portfolio/static/js/453.bd1f04f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1510878.css",
-    "static/js/main.d612d765.js"
+    "static/js/main.aec4dbda.js"
   ]
 }
