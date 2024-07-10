@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/jeet-portfolio/static/css/main.b1510878.css",
+    "main.js": "/jeet-portfolio/static/js/main.d612d765.js",
+    "static/js/453.bd1f04f9.chunk.js": "/jeet-portfolio/static/js/453.bd1f04f9.chunk.js",
+    "static/media/hackerrank.png": "/jeet-portfolio/static/media/hackerrank.0f32d133b601ca0dee08.png",
+    "static/media/personalitypatent.png": "/jeet-portfolio/static/media/personalitypatent.80b950431eef99d887f6.png",
+    "static/media/oraclegenai.png": "/jeet-portfolio/static/media/oraclegenai.09c0a78a28c536203370.png",
+    "static/media/pythonudemy.png": "/jeet-portfolio/static/media/pythonudemy.191111083f72cf40aa7a.png",
+    "static/media/oracleassociate.png": "/jeet-portfolio/static/media/oracleassociate.17de31c564b8e43eca87.png",
+    "static/media/cyberark.png": "/jeet-portfolio/static/media/cyberark.30259d7f29e29051b721.png",
+    "static/media/webapp.png": "/jeet-portfolio/static/media/webapp.a646605570b6ed740be2.png",
+    "static/media/azure.png": "/jeet-portfolio/static/media/azure.57e4c55407bd569a36f5.png",
+    "static/media/jeet9.png": "/jeet-portfolio/static/media/jeet9.d19c9a1a5fb77312ea82.png",
+    "static/media/po2.png": "/jeet-portfolio/static/media/po2.0a8ad23575a65ff34f9a.png",
+    "static/media/cicd.png": "/jeet-portfolio/static/media/cicd.671a1e92253993e59a85.png",
+    "static/media/textsql.png": "/jeet-portfolio/static/media/textsql.8af4bfdff8a2cf1a68f7.png",
+    "static/media/contact.webp": "/jeet-portfolio/static/media/contact.84c3341c3296ac00fb1f.webp",
+    "static/media/personality.png": "/jeet-portfolio/static/media/personality.a142b71f9439d7479beb.png",
+    "static/media/waste.jpg": "/jeet-portfolio/static/media/waste.d5d9493e1d74ec62036d.jpg",
+    "static/media/about.png": "/jeet-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/signature.png": "/jeet-portfolio/static/media/signature.2e4ba9f0875f01e1dc6a.png",
+    "static/media/speaksql.png": "/jeet-portfolio/static/media/speaksql.dd195fbc9207a0f661eb.png",
+    "static/media/bank.jpg": "/jeet-portfolio/static/media/bank.245493977ee43cc55045.jpg",
+    "static/media/password.jpg": "/jeet-portfolio/static/media/password.4e9ef5dd7647e0aef1c8.jpg",
+    "static/media/calorie.jpg": "/jeet-portfolio/static/media/calorie.ebdf6c6c66d61fbfe111.jpg",
+    "static/media/expense.webp": "/jeet-portfolio/static/media/expense.d9d38198649be3e387d5.webp",
+    "static/media/fashion.jpeg": "/jeet-portfolio/static/media/fashion.193404aa90968037ebd8.jpeg",
+    "static/media/black.jpg": "/jeet-portfolio/static/media/black.6a5dcd020e195f918a8a.jpg",
+    "static/media/pre.svg": "/jeet-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/jeet-portfolio/index.html",
+    "main.b1510878.css.map": "/jeet-portfolio/static/css/main.b1510878.css.map",
+    "main.d612d765.js.map": "/jeet-portfolio/static/js/main.d612d765.js.map",
+    "453.bd1f04f9.chunk.js.map": "/jeet-portfolio/static/js/453.bd1f04f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1510878.css",
+    "static/js/main.d612d765.js"
+  ]
+}
