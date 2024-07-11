@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jeet-portfolio/static/css/main.b1510878.css",
-    "main.js": "/jeet-portfolio/static/js/main.aec4dbda.js",
+    "main.css": "/jeet-portfolio/static/css/main.59bc18ea.css",
+    "main.js": "/jeet-portfolio/static/js/main.737f8144.js",
     "static/js/453.bd1f04f9.chunk.js": "/jeet-portfolio/static/js/453.bd1f04f9.chunk.js",
     "static/media/hackerrank.png": "/jeet-portfolio/static/media/hackerrank.0f32d133b601ca0dee08.png",
     "static/media/personalitypatent.png": "/jeet-portfolio/static/media/personalitypatent.80b950431eef99d887f6.png",
@@ -29,12 +29,12 @@
     "static/media/black.jpg": "/jeet-portfolio/static/media/black.6a5dcd020e195f918a8a.jpg",
     "static/media/pre.svg": "/jeet-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/jeet-portfolio/index.html",
-    "main.b1510878.css.map": "/jeet-portfolio/static/css/main.b1510878.css.map",
-    "main.aec4dbda.js.map": "/jeet-portfolio/static/js/main.aec4dbda.js.map",
+    "main.59bc18ea.css.map": "/jeet-portfolio/static/css/main.59bc18ea.css.map",
+    "main.737f8144.js.map": "/jeet-portfolio/static/js/main.737f8144.js.map",
     "453.bd1f04f9.chunk.js.map": "/jeet-portfolio/static/js/453.bd1f04f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1510878.css",
-    "static/js/main.aec4dbda.js"
+    "static/css/main.59bc18ea.css",
+    "static/js/main.737f8144.js"
   ]
 }
